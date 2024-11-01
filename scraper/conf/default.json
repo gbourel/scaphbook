@@ -1,0 +1,5 @@
+{
+  "DESTFILE": "scaphdata.json",
+  "GEOAPIKEY": "API key for geocode.maps.co",
+  "CITIES": "cache/cities.csv"
+}
